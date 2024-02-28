@@ -1,7 +1,6 @@
 <h1>
- <img src="https://github.com/vsandeepkumar809/Resume/assets/144663783/b5be4dd6-d6b9-4116-b5fe-b196c371ba82"/>
+ <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/304b2aff-e6ee-49f2-b647-509a1de84a59" />
 </h1>
-
 
 ![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
 ![Static Badge](https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&logo=Gmail&logoColor=firebrick&label=Gmail&labelColor=firebrick&color=firebrick&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ffs%3D1%26to%3Dsndpkmr809%40gmail.com%26tf%3Dcm)    
@@ -55,6 +54,9 @@
 | B.Sc.         | Dec, 2017   | Bhavans Vivekananda Degree College , Sainikpuri / Osmania University |
 | XII           | March, 2013 | BIEAP (Andhra Pradesh Board of Intermediate Education)  |
 | X             | March, 2011 | SSC (Secondary School Certificate) |
+
+
+
 
 
 
