@@ -1,6 +1,6 @@
-<h1>
- <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/69f8f0d7-d0a7-488d-849a-14f06723cd84" />
-</h1>
+<h2>
+ <img src="https://github.com/vsandeepkumar809/Resume/assets/144663783/b5be4dd6-d6b9-4116-b5fe-b196c371ba82" />
+</h2>
 
 
 ![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
