@@ -1,5 +1,5 @@
 <h1>
- <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/304b2aff-e6ee-49f2-b647-509a1de84a59" />
+ <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/7712eebe-c45c-4dc9-9802-6e4a118ca7c9" />
 </h1>
 
 ![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
@@ -14,7 +14,7 @@
 
 # 💼Work History:
 
-<p align="left">Experienced IT Professional with 5+ Years of Expertise in Technical Support, Troubleshooting, and Team Leadership.</p>
+<p align="left">Seeking an IT Support Manager/ Team Leader role to use my experience in technical support and leadership. I aim to improve IT systems and services to meet organizational goals. Committed to training and guiding team members for operational excellence and organizational success.</p>
 
 # 👨🏻‍💼Professional Experience
 
@@ -31,7 +31,7 @@
 - Promptly responded to technical support inquiries via phone, email, and in-person, ensuring timely issue resolution.
 - Diagnosed and resolved hardware, software, and network issues using troubleshooting techniques to identify root causes.
 - Installed, configured, and maintained computer systems, software, and peripherals to optimize performance and functionality.
-- Documented support interactions, solutions, and troubleshooting steps, maintaining accurate records.
+- Maintained detailed records of technical solutions and interactions, ensuring accurate and timely documentation of support interactions, solutions, and troubleshooting steps. Contributed to efficient problem-solving and decision-making processes by preparing accurate reports.
 - Stayed updated on technological advancements and best practices to enhance skills and knowledge.
 - Worked as a Subject Matter Expert supporting 30+ team members on Microsoft Teams and Google Meet.
 - Actively supported team members in resolving technical issues and provided guidance when necessary.
