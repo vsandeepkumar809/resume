@@ -1,6 +1,8 @@
-<h1 style="text-align: center;">
-    <img src="https://github.com/vsandeepkumar809/io/assets/144663783/711be69b-494a-4203-b127-0d978fecc5d8" alt="Your Image">
+
+<h1 align="center">
+  <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/6bac7c2d-346a-40ae-b332-d3a42562cce9" />
 </h1>
+
 
 ![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
 ![Static Badge](https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&logo=Gmail&logoColor=firebrick&label=Gmail&labelColor=firebrick&color=firebrick&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ffs%3D1%26to%3Dsndpkmr809%40gmail.com%26tf%3Dcm)    
