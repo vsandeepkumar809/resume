@@ -16,7 +16,7 @@
 
 # 💼Work History:
 
-<p align="left">Seeking an IT Support Manager/ Team Leader role to use my experience in technical support and leadership. I aim to improve IT systems and services to meet organizational goals. Committed to training and guiding team members for operational excellence and organizational success.</p>
+<p align="left">I'm currently seeking a role as an IT Support Manager/Team Leader. With over 5 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
 
 # 👨🏻‍💼Professional Experience
 
