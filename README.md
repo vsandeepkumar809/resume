@@ -1,5 +1,5 @@
-<h1>
- <img src="https://github.com/vsandeepkumar809/vsandeepkumar809/assets/144663783/e9616c07-f7f1-4465-8260-94f503984990" />
+<h1 style="text-align: center;">
+    <img src="https://github.com/vsandeepkumar809/io/assets/144663783/711be69b-494a-4203-b127-0d978fecc5d8" alt="Your Image">
 </h1>
 
 ![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
