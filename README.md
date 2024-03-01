@@ -4,12 +4,18 @@
 </h1>
 
 
-![Static Badge](https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&logo=Company&label=%F0%9F%8E%AD%20Role&labelColor=Blue&color=blue)  
-![Static Badge](https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&logo=Gmail&logoColor=firebrick&label=Gmail&labelColor=firebrick&color=firebrick&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ffs%3D1%26to%3Dsndpkmr809%40gmail.com%26tf%3Dcm)    
-![Static Badge](https://img.shields.io/badge/%2B91%209542181245-%20Blue?style=social&logo=Whatsapp&label=Phone&labelColor=Green&color=Green)     
-![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Fsandeepkumar809-red?style=social&logo=LinkedIn&logoColor=blue&label=LinkedIn&labelColor=blue&color=blue&link=https%3A%2F%2Flinkedin.com%2Fin%2Fsandeepkumar809)   
-![Static Badge](https://img.shields.io/badge/github.com%2Fvsandeepkumar809-black?style=social&logo=GitHub&logoColor=Black&label=GitHub&labelColor=Blue&color=blue&link=https%3A%2F%2Fgithub.com%2Fvsandeepkumar809)  
-
+<p>
+        <img src="https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&amp;logo=Company&amp;label=%F0%9F%8E%AD%20Role&amp;labelColor=Blue&amp;color=blue" alt="Static Badge">
+        <br>
+        <a href="https://mail.google.com/mail/u/0/?fs=1&to=sndpkmr809@gmail.com&tf=cm"><img src="https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&amp;logo=Gmail&amp;logoColor=firebrick&amp;label=Gmail&amp;labelColor=firebrick&amp;color=firebrick" alt="Static Badge"></a>
+        <br>
+        <a href="https://wa.me/+919542181245"><img src="https://img.shields.io/badge/%2B91%209542181245-%20Blue?style=social&amp;logo=Whatsapp&amp;label=Phone&amp;labelColor=Green&amp;color=Green" alt="Static Badge"></a>
+        <br>
+        <a href="https://linkedin.com/in/sandeepkumar809"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fsandeepkumar809-red?style=social&amp;logo=LinkedIn&amp;logoColor=blue&amp;label=LinkedIn&amp;labelColor=blue&amp;color=blue" alt="Static Badge"></a>
+        <br>
+        <a href="https://github.com/vsandeepkumar809"><img src="https://img.shields.io/badge/github.com%2Fvsandeepkumar809-black?style=social&amp;logo=GitHub&amp;logoColor=Black&amp;label=GitHub&amp;labelColor=Blue&amp;color=blue" alt="Static Badge"></a>
+    
+    </p>
 
 
 
