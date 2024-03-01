@@ -16,7 +16,7 @@
         <a href="https://github.com/vsandeepkumar809"><img src="https://img.shields.io/badge/github.com%2Fvsandeepkumar809-black?style=social&amp;logo=GitHub&amp;logoColor=Black&amp;label=GitHub&amp;labelColor=Blue&amp;color=blue" alt="Static Badge"></a>
   
 
-# 💼Work History:
+# 🎯Objective
 
 <p align="left">I'm currently seeking a role as an IT Support Manager/Team Leader. With over 5 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
 
@@ -40,6 +40,10 @@
 - Worked as a Subject Matter Expert supporting 30+ team members on Microsoft Teams and Google Meet.
 - Actively supported team members in resolving technical issues and provided guidance when necessary.
 
+# 🤖Interests
+- Exploring the latest advancements in artificial intelligence, particularly in natural language processing
+- Experimenting with Generative Pre-trained Transformers (GPT) for creative text generation and language understanding
+- Contributing to open-source projects and staying updated with the latest developments in the field
 
 # 👨🏻‍💻IT Skills
 | Category          | Skills                                                                                                            |
@@ -60,8 +64,8 @@
 
 # 🏅Certifications
 
-Salesforce Certified Administrator • 2022  
-Salesforce Certified Associate • 2023
+- Salesforce Certified Administrator • 2022  
+- Salesforce Certified Associate • 2023
 
 
 
