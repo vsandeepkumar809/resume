@@ -14,11 +14,7 @@
         <a href="https://linkedin.com/in/sandeepkumar809"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fsandeepkumar809-red?style=social&amp;logo=LinkedIn&amp;logoColor=blue&amp;label=LinkedIn&amp;labelColor=blue&amp;color=blue" alt="Static Badge"></a>
         <br>
         <a href="https://github.com/vsandeepkumar809"><img src="https://img.shields.io/badge/github.com%2Fvsandeepkumar809-black?style=social&amp;logo=GitHub&amp;logoColor=Black&amp;label=GitHub&amp;labelColor=Blue&amp;color=blue" alt="Static Badge"></a>
-    
-    </p>
-
-
-
+  
 
 # 💼Work History:
 
