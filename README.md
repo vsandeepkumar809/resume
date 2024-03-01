@@ -42,7 +42,7 @@
 
 # 🤖Interests
 - I'm keen on the latest AI technology, especially in understanding how computers can understand and generate human-like text. 
-- I'm fascinated by something called Generative Pre-trained Transformers (GPT), which are smart programs that can write and understand text.
+- I'm fascinated by Generative Pre-trained Transformers (GPT), which are smart programs that can write and understand text.
 - I enjoy exploring how we can use these programs to create new content, understand languages better, and solve everyday problems in innovative ways.
 
 # 👨🏻‍💻IT Skills
