@@ -66,6 +66,7 @@
 
 - Salesforce Certified Administrator • 2022  
 - Salesforce Certified Associate • 2023
+- Microsoft 365 Certified: Fundamentals • 2024
 
 
 
