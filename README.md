@@ -24,7 +24,6 @@
 
 | Company                                        | Role/Department                               | Years of Experience               |
 |-----------------------------------------------|-----------------------------------------------|----------------------------------|
-| Experis IT PVT LTD/ Microsoft                           | Sr. IT Support Analyst                        | January 2024 - present           |
 | SP Software P Limited/ Salesforce              | Sr. IT Techforce Analyst - Technical Support | January 2022 - August 2023      |
 | Wipro Limited                                 | Senior Associate - Technical Support/SME      | May 2020 - October 2021         |
 | Cognizant Technology Solutions India Private | Process Executive - Data                      | July 2018 - April 2020          |
