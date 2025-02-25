@@ -18,12 +18,13 @@
 
 # 🎯Objective
 
-<p align="left">I'm currently seeking a role as an IT Support Manager/Team Leader. With over 5 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
+<p align="left">I'm currently seeking a role as an IT Support Manager/Team Leader. With over 6 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
 
 # 👨🏻‍💼Professional Experience
 
 | Company                                        | Role/Department                               | Years of Experience               |
 |-----------------------------------------------|-----------------------------------------------|----------------------------------|
+| Experis IT Private Limited (Client: Microsoft)  | Sr. IT Support Analyst - Technical Lead | January 2024 - Present      |
 | SP Software P Limited/ Salesforce              | Sr. IT Techforce Analyst - Technical Support | January 2022 - August 2023      |
 | Wipro Limited                                 | Senior Associate - Technical Support/SME      | May 2020 - October 2021         |
 | Cognizant Technology Solutions India Private | Process Executive - Data                      | July 2018 - April 2020          |
