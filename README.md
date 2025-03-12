@@ -18,7 +18,7 @@
 
 # 🎯Objective
 
-<p align="left">I'm currently seeking a role as an IT Support Manager/Team Leader. With over 6 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
+<p align="left">I'm currently seeking a role as an Sr. IT Support Analyst/Team Leader. With over 6 years of experience in technical support and leadership, I focus on understanding customers' IT needs and delivering top-notch solutions. My goal is to ensure high customer satisfaction and constantly improve IT support services.</p>
 
 # 👨🏻‍💼Professional Experience
 
